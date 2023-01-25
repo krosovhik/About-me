@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **krosovhiksanya228@gmail.com**
 
-- 📄 Know about my experiences [https://krosovhik.github.io/CV-ON-EN/](https://krosovhik.github.io/CV-ON-EN/)
+- 📄 Know about my experiences <a href="https://krosovhik.github.io/CV-ON-EN/"> Here<a/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
