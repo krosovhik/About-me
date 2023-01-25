@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/krosovhik](https://github.com/krosovhik)
 
-- 📫 How to reach me **krosovhiksanya228@gmail.com**
+- 📫 How to reach me <a href="mailto:krosovhiksanya228@gmail.com">krosovhiksanya228@gmail.com<a/>
 
 - 📄 Know about my experiences <a href="https://krosovhik.github.io/CV-ON-EN/"> Here<a/>
 
