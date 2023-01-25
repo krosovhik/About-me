@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **HTML5, CSS, Java, JavaScript, React.js, SQL, Excel,**
 
-- 👨‍💻 All of my projects are available at [https://github.com/krosovhik](https://github.com/krosovhik)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/krosovhik"> GitHub<a/>
 
 - 📫 How to reach me <a href="mailto:krosovhiksanya228@gmail.com">krosovhiksanya228@gmail.com<a/>
 
