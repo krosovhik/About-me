@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Olkesnadr Kovtun</h1>
+<h1 align="center">Hi 👋, I'm Oleksnadr Kovtun</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krosovhik&label=Profile%20views&color=0e75b6&style=flat" alt="krosovhik" /> </p>
 
 - 🌱 I’m currently learning **HTML5, CSS, Java, JavaScript, React.js, SQL, Excel,**
