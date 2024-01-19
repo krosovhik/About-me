@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oleksandr Kovtun</h1>
-<img align="right" width="600" position:rigth alt="gif" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+<img align="right" width="400" position:rigth alt="gif" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 - 🌱 I’m currently learning <strong>HTML5, CSS, JavaScript,</strong> React.js, SQL
 - 👨‍💻 All of my projects are available at <a href="https://github.com/krosovhik"> GitHub<a/>
