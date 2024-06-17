@@ -3,8 +3,8 @@
 
 - 🌱 I’m currently learning <strong>HTML5, CSS, JavaScript,</strong> React.js, SQL
 - 👨‍💻 All of my projects are available at <a href="https://github.com/krosovhik"> GitHub<a/>
-- 📫 How to reach me <a href="mailto:krosovhiksanya228@gmail.com">kovtun.cooperation@gmail.com<a/>
-- 📄 Know about my experiences <a href="https://www.canva.com/design/DAFZceoi8nk/bvYSuAU708FudlIhmGYQZw/view?utm_content=DAFZceoi8nk&utm_campaign=designshare&utm_medium=link&utm_source=editor"> Here<a/>
+- 📫 How to reach me <a href="mailto:kovtun.cooperation@gmail.com">kovtun.cooperation@gmail.com<a/>
+- 📄 Know about my experiences <a href="[https://www.canva.com/design/DAFZceoi8nk/bvYSuAU708FudlIhmGYQZw/view?utm_content=DAFZceoi8nk&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAGIaL4hzcA/0ZCtNn5qEk6d3egE-Ge1Cg/edit?utm_content=DAGIaL4hzcA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)"> Here<a/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
